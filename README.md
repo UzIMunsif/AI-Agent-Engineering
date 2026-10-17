@@ -14,12 +14,12 @@ This repository contains code examples, exercises, notes, and projects focused o
 
 📚 Repository Structure:
 
-ai-agentic-engineering/
-├── notes/          # Course notes and key concepts
-├── exercises/      # Hands-on exercises
-├── projects/       # Practical AI agent projects
-├── experiments/    # Experiments and prototypes
-└── README.md
+  ai-agentic-engineering/
+  ├── notes/          # Course notes and key concepts
+  ├── exercises/      # Hands-on exercises
+  ├── projects/       # Practical AI agent projects
+  ├── experiments/    # Experiments and prototypes
+  └── README.md
 
 The structure will evolve as I progress through the course.
 
